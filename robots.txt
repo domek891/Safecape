@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://safecape.pl/sitemap.xml
